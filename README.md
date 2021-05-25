@@ -41,6 +41,7 @@ The machine configuration for our experiment was as follows:
   * Anaconda
   * Computer Vision Library: YOLO
  
-That’s all. Hope you got idea on real time face detection in webcam using Modified Yolo Neural Network.
-You may be interested to read see yourself in Tracking Object using Yolo Neural Network
+That’s all.<br> 
+Hope you got idea on real time object detection using Modified Yolo Neural Network. <br>
+You may be interested to read see yourself in Tracking Object using Yolo Neural Network. <br>
 Thanks for reading.
