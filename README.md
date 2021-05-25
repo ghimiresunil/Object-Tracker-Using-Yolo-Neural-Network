@@ -19,4 +19,28 @@ Create a MOV video recording and move it to the working directory. Run <code>./i
 
 ## Python Implementation
 
+* Inspiration: Inspired by a project assignment from the course Computer Vision I at OpenCV.org.
+* Network Used: You Only Look Once (YOLO) Network. 
+
+## Run Script 
   
+From the active environment, run python <code> tracker.py </code> and observe the frame-by-frame computations while the annotated output video is written.
+  
+## Experimental Setup 
+ 
+The machine configuration for our experiment was as follows:
+
+### Hardware:
+  * RAM: 8 GB or More
+  * Operating System: Windows 10 or Linux
+  * Hard disk Size: 1 TB
+ 
+### Hardware:
+  * Python
+  * Keras (Tensorflow Backend)
+  * Anaconda
+  * Computer Vision Library: YOLO
+ 
+That’s all. Hope you got idea on real time face detection in webcam using Modified Yolo Neural Network.
+You may be interested to read see yourself in Tracking Object using Yolo Neural Network
+Thanks for reading.
